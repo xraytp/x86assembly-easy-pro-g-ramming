@@ -2,6 +2,7 @@
 Repository of the easy programming challenges recommended by the g board written in x86 assembly.
 
 All programs are written for a 64-bit linux machine and are compiled with the following nasm command:
+
 `nasm -f elf64 -o <program>.o <program>`
 
 ![g-challenges-v4](https://wiki.installgentoo.com/images/c/c8/V4.png)
