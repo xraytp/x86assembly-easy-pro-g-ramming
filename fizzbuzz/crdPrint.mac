@@ -1,0 +1,14 @@
+%ifdef COMMENT
+	Requires declared equ variables:
+		SYS_WRITE
+		STDOUT
+	Prints explicitly provided number of bytes from pointer
+%endif
+
+%macro crdPrint 2
+	mov rax, SYS_WRITE
+	mov rdi, STDOUT
+	mov rsi, %1
+	mov rdx, %2
+	syscall
+%endmacro
