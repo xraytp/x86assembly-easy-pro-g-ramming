@@ -7,7 +7,7 @@ All programs are written for a 64-bit linux machine and are compiled with the fo
 
 ![g-challenges-v4](https://wiki.installgentoo.com/images/c/c8/V4.png)
 
-Challenge | Optional Task | Status
+Challenge | Optional Task (OpTask) | Status
 ---------------|---------|-----------
 Markov Chain Sentence Generator | Include Shitposting Abilities|
 To-Do List Applicant (CLI or Web app) | |
@@ -17,7 +17,7 @@ Imageboard (Imagine vichan) | |
 Create an HSV Color Representation | |
 Port Scanner | |
 Old School Demo Effect | |
-Fizzbuzz | In Assembly | Started
+Fizzbuzz | In Assembly | Completed with OpTask
 RPN Calculator | |
 Counts occurrences of characters in a Given String| Include support for unicode | 
 Tower of Hanoi | |
